@@ -51,7 +51,7 @@ menu:
     url:               /news/
   - title:             Publication
     url:               /publication/
-  - title:             Job position
+  - title:             Job
     url:               /job/
 
 # Add links to the footer.

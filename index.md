@@ -15,9 +15,4 @@ Seok-Jun Hong, PhD<br/>
 
 ## We are hiring! See our job posting.
 
-
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
 [cv]: resume.md
