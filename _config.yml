@@ -274,7 +274,7 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v8.5.2    
+# remote_theme: hydecorp/hydejack@v8.5.2    
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
@@ -289,8 +289,8 @@ remote_theme: hydecorp/hydejack@v8.5.2
 #   yandex:              <verification-id>
 
 # Used for Twitter cards
-# twitter:
-username:            hogn_seok_jun
+twitter:
+  username:            hogn_seok_jun
 
 # Used for Facebook open graph
 # facebook:
