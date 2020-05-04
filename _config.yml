@@ -274,7 +274,7 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v8.5.2
+remote_theme: hydecorp/hydejack@v8.5.2    
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
@@ -290,7 +290,7 @@ remote_theme: hydecorp/hydejack@v8.5.2
 
 # Used for Twitter cards
 # twitter:
-#   username:            <shortname>
+username:            hogn_seok_jun
 
 # Used for Facebook open graph
 # facebook:
@@ -300,10 +300,10 @@ remote_theme: hydecorp/hydejack@v8.5.2
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+name:                COMBINELab
+links:
+  - https://twitter.com/hong_seok_jun
+  - https://github.com/COMBINE-SKKU
 
 
 # Other Plugins
