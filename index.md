@@ -11,7 +11,7 @@ We are Computational Brain Imaging and Network Modeling (COMBINE) Lab. Using div
 <div sytle="text-align:left">Principal Investigator<br/></div>
 <div sytle="text-align:left"><img src="/assets/img/hong_seok_jun.jpg"><br/></div>
 <div sytle="text-align:left">Seok-Jun Hong, PhD<br/></div>
-[cv]{:.heading.flip-title}
+<div sytle="text-align:left">[cv]</div>{:.heading.flip-title}
 {:.figure}
 
 [documentation]: docs/README.md
