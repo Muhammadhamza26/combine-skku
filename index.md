@@ -5,13 +5,14 @@ hide_description: true
 ---
 
 # Welcome to the COMBINE Lab!
-We are Computational Brain Imaging and Network Modeling (COMBINE) Lab. Using diverse neuroimaging techniques and statistical approaches, our research focuses on identifying parismonious principles underlying large-scale brain organizations and neurodynamics in both typical and atypcial conditions. To deliver these goals, we are seeking to implementing multi-method (e.g., connectomics, computational modeling), multi-modal (e.g., structure, functions), and multi-scale (e.g., circuit, large-scale networks) analytics and capturing individual variations in the complex behavioral and clinical outcomes. W also aim at transferring this neuroscience-grounded knowledge to develop biologically more plusible AI algorithms such as biophysical deep neural network. 
+We are Computational Brain Imaging and Network Modeling (COMBINE) Lab. Using diverse neuroimaging techniques and statistical approaches, our research focuses on identifying parismonious principles underlying large-scale brain organizations and neurodynamics in both typical and atypcial conditions. In delivering these ambitious goals, we are seeking to implementing multi-method (e.g., connectomics, computational tissue modeling), multi-modal (e.g., structure and functions), and multi-scale (e.g., circuit, large-scale network systems and behaviors) analytical approaches and capturing the variation of individuals in their complex behavioral and clinical outcomes. Finally, we also aim at transferring this neuroscience-grounded knowledge to guide to develop biologically more plusible artifical intelligence algorithms such as biophysical deep neural network. 
 
 # People
-<div style="text-align: left">Principal Investigator<br/></div>
-<img align="left" src="/assets/img/hong_seok_jun.jpg"><br/>
-<div style="text-align: left">Seok-Jun Hong, PhD<br/></div>
-[cv]{:.heading.flip-title}
+<p align="left">
+    Principal Investigator<br/>
+    ![Principal Investigator](/assets/img/hong_seok_jun.jpg)
+    Seok-Jun Hong, PhD[cv]{:.heading.flip-title}<br/>
+</p>
 {:.figure}
 
 [documentation]: docs/README.md
