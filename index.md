@@ -8,12 +8,9 @@ hide_description: true
 We are Computational Brain Imaging and Network Modeling (COMBINE) Lab. Using diverse neuroimaging techniques and statistical approaches, our research focuses on identifying parismonious principles underlying large-scale brain organizations and neurodynamics in both typical and atypcial conditions. In delivering these ambitious goals, we are seeking to implementing multi-method (e.g., connectomics, computational tissue modeling), multi-modal (e.g., structure and functions), and multi-scale (e.g., circuit, large-scale network systems and behaviors) analytical approaches and capturing the variation of individuals in their complex behavioral and clinical outcomes. Finally, we also aim at transferring this neuroscience-grounded knowledge to guide to develop biologically more plusible artifical intelligence algorithms such as biophysical deep neural network. 
 
 ## People
-Principal Investigator
-
-![Principal Investigator](/assets/img/hong_seok_jun.jpg){:data-width="180" data-height="240"}
-
-Seok-Jun Hong, PhD
-[cv]{:.heading.flip-title}
+Principal Investigator\s\s
+![Principal Investigator](/assets/img/hong_seok_jun.jpg)\s\s
+Seok-Jun Hong, PhD[cv]{:.heading.flip-title}
 {:.figure}
 
 [documentation]: docs/README.md
