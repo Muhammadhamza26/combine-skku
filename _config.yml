@@ -39,7 +39,10 @@ logo:                  ''
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Seok-Jun Hong
-  email:               hongseokjun@skku.edu
+  email:               hong.seok.jun@gmail.com
+  social:
+    twitter: hong_seok_jun
+    github: hongseokjun
   # Used by `jekyll-seo-tag`:
   twitter:             hong_seok_jun
 
