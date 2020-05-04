@@ -13,6 +13,8 @@ Principal Investigator<br/>
 Seok-Jun Hong, PhD<br/>
 [cv]{:.heading.flip-title}
 
+## We are hiring! See our job posting.
+
 
 [documentation]: docs/README.md
 [install]: docs/install.md
