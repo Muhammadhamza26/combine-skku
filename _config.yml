@@ -41,7 +41,7 @@ author:
   name:                Seok-Jun Hong
   email:               hongseokjun@skku.edu
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             hong_seok_jun
 
 # Add links to the sidebar.
 menu:
@@ -299,11 +299,11 @@ username:            hogn_seok_jun
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-name:                COMBINELab
-links:
-  - https://twitter.com/hong_seok_jun
-  - https://github.com/COMBINE-SKKU
+social:
+  name:                COMBINELab
+  links:
+    - https://twitter.com/hong_seok_jun
+    - https://github.com/COMBINE-SKKU
 
 
 # Other Plugins
