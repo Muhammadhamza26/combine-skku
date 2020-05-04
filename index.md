@@ -13,7 +13,6 @@ Principal Investigator<br/>
 Seok-Jun Hong, PhD<br/>
 [cv]{:.heading.flip-title}
 
-{:.figure}
 
 [documentation]: docs/README.md
 [install]: docs/install.md
