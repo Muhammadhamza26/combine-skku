@@ -52,7 +52,7 @@ menu:
   - title:             Publication
     url:               /publication/
   - title:             Job
-    url:               /job/job.md
+    url:               /job/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
