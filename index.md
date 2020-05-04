@@ -10,8 +10,7 @@ hide_description: true
 # People
 Principal Investigator<br/>
 ![principal investigator](/assets/img/hong_seok_jun.jpg)<br/>
-Seok-Jun Hong, PhD<br/>
-[cv]{:.heading.flip-title}
+Seok-Jun Hong, PhD [cv]{:.heading.flip-title}<br/>
 
 ## We are hiring! See our job posting.
 
