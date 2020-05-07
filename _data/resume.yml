@@ -26,28 +26,20 @@ basics:
       username: "hong.seok.jun"
       url: "https://scholar.google.com/citations?user=N7uX1isAAAAJ&hl=en"
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "Sunkyunkwan University"
+    position: "Assistant Professor"
+    startDate: "2020-03-01"
     endDate: ""
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
-    highlights:
-      - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
-volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
-    highlights:
-      - "Awarded 'Teacher of the Month'"
+      Department of Global Biomedical Engineering
+      IBS Center for Neuroscience Imaging Research
+  - company: "Child Mind Institute"
+    position: "Research Scientist"
+    startDate: "2019-09-01"
+    endDate: ""
+    summary: >
+      Center for the Developing Brain
+      Collaborate: Drs Michael Milham and Adriana Di Martino
 education:
   - institution: "University of Oklahoma"
     area: "Information Technology"
