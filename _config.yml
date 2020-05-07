@@ -53,7 +53,7 @@ menu:
   - title:             News
     url:               /news/
   - title:             Publication
-    url:               /project/
+    url:               /projects/
   - title:             Job
     url:               /job/
 
