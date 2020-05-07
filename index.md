@@ -24,8 +24,8 @@ See our job [posting].
 ![future student](/assets/img/future_students3.jpg)<br/>
 
 ## Contact
-<iframe src="https://goo.gl/maps/y2cH1pzSPhmQA8kG8&output=svembed" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d793.5333488879778!2d126.97586952921114!3d37.29197219874064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDE3JzMxLjEiTiAxMjbCsDU4JzM1LjEiRQ!5e0!3m2!1sen!2skr!4v1588855433976!5m2!1sen!2skr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu, Suwon, Korea, Tel.+82-31-299-4354 / Fax.+82-31-299-4506
 
 [PhD]: resume.md
 [posting]: /job/
