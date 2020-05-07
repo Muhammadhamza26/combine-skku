@@ -89,26 +89,26 @@ awards:
     awarder: "Techcrunch"
     summary: "There is no spoon."
 skills:
-  - name: "Web Development"
+  - name: "Programming"
     level: "Master"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
+      - "MATLAB"
+      - "Python"
+      - "Bash"
+  - name: "Image processing"
     level: "Master"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "Surfstat"
+      - "Freesurfer"
+      - "Workbench"
+      - "FSL"
+      - "Connectivity analysis"
+      - "Morphometry"
 languages:
-  - language: "English"
+  - language: "Korean"
     fluency: "Native speaker"
-interests:
-  - name: "Wildlife"
-    keywords:
-      - "Ferrets"
-      - "Unicorns"
+  - language: "English"
+    fluency: "Fluent"
 references:
   - name: "Erlich Bachman"
     reference: >
