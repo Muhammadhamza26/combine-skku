@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?ijawcg');
-  src:  url('fonts/icomoon.eot?ijawcg#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?ijawcg') format('truetype'),
-    url('fonts/icomoon.woff?ijawcg') format('woff'),
-    url('fonts/icomoon.svg?ijawcg#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?r6j5hv');
+  src:  url('fonts/icomoon.eot?r6j5hv#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?r6j5hv') format('truetype'),
+    url('fonts/icomoon.woff?r6j5hv') format('woff'),
+    url('fonts/icomoon.svg?r6j5hv#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -285,4 +285,7 @@
 }
 .icon-researchgate:before {
   content: "\e900";
+}
+.icon-googlescholar:before {
+  content: "\e901";
 }
