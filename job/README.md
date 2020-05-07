@@ -6,7 +6,7 @@ hide_description: true
 
 # Job posting
 ![center emblem](/assets/img/centers_emblem.png)
-<br/> 
+<br/><br/> 
 ![future student](/assets/img/future_students3.jpg)
 <br/>
 ## Open positions for PhD students and Postdoc fellows 
