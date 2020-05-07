@@ -24,6 +24,9 @@ instagram:
   name: Instagram
   icon: icon-instagram
   prepend: 'https://instagram.com/'
+researchgate:
+  name: ResearchGate
+  icon: icon-researchgate
 whatsapp:
   name: WhatsApp
   icon: icon-whatsapp

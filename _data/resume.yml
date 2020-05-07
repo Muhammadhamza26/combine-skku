@@ -8,21 +8,20 @@ basics:
   email: "hongseokjun@skku.edu"
   phone: "(201) 551-1662"
   summary: >
-    I am a computational neuroscientist with a spectialty in brain network modeling and data-driven subtyping of typical and atypical developmental conditions. I am currently an assistant professor in the Department of Biomedical Engineering at Sungkyunkwan University (SKKU), and in a full time affiliation with IBS Center for Neuroscience Imaging Research (CNIR) in S.Korea. I am also jointly affiliated as a research scientist to the Center for the Developing Brain at the Child Mind Institute in New York. Building upon expertise in computer science, statistics and neuroinformatics, I have actively conducted neuroimaging experiments to link cognitive/clinical neuroscience and machine learning algorithms for the last 10 years. At SKKU and CMI, I am expanding my research scope to apply advanced statistical and computational algorithms to model brain dynamics and analyze various behavioral and brain imaging data of both human and non-human primate brains.
-    
+    Hi there, I am a computational neuroscientist with a spectialty in brain network modeling and data-driven subtyping of typical and atypical developmental conditions. I am currently an assistant professor in the Department of Biomedical Engineering at Sungkyunkwan University (SKKU), and in a full time affiliation with IBS Center for Neuroscience Imaging Research (CNIR) in S.Korea. I am also jointly affiliated as a research scientist to the Center for the Developing Brain at the Child Mind Institute in New York. Building upon expertise in computer science, statistics and neuroinformatics, I have actively conducted neuroimaging experiments to link cognitive/clinical neuroscience and machine learning algorithms for the last 10 years. At SKKU and CMI, I am expanding my research scope to apply advanced statistical and computational algorithms to model functional dynamics and analyze various behavioral and neuroimaging data of both human and non-human primate brains.
+
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+    address: "IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu"
+    postalCode: "16419"
+    city: "Suwon"
+    countryCode: "Korea"
   profiles:
     - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
-    - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "hong_seok_jun"
+      url: "https://twitter.com/hong_seok_jun?lang=en"
+    - network: "ResearchGate"
+      username: "Seok-jun_Hong"
+      url: "https://www.researchgate.net/profile/Seok-jun_Hong"
 work:
   - company: "Pied Piper"
     position: "CEO/President"
