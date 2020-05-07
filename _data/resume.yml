@@ -47,9 +47,9 @@ education:
     courses:
       - "Mentor: Drs. Michael Milham and Adriana Di Martino"
       - "Projects"
-      - "... 1. Low dimensional representation of functional connnectivity"
-      - "... 2. Connectome-based behavioral prediction"
-      - "... 3. Neurosubtyping of autism spectrum disorder"
+      - "&nbsp;&nbsp;&nbsp;&nbsp;1. Low dimensional representation of functional connnectivity"
+      - "&nbsp;&nbsp;&nbsp;&nbsp2. Connectome-based behavioral prediction"
+      - "&nbsp;&nbsp;&nbsp;&nbsp3. Neurosubtyping of autism spectrum disorder"
   - institution: "Montreal Neurological Institute, Mcgill University, QC Canada"
     area: "Computational neuroimaging"
     studyType: "Post-doctoral"
@@ -58,8 +58,8 @@ education:
     courses:
       - "Mentor: Dr. Boris Bernhardt"
       - "Projects"
-      - "... 1. Multidimensional neuroanatomical subtyping of autism spectrum disorder"
-      - "... 2. Connectome-based cortical hierarchical phenotyping in autism"
+      - "&nbsp;&nbsp;&nbsp;&nbsp1. Multidimensional neuroanatomical subtyping of autism spectrum disorder"
+      - "&nbsp;&nbsp;&nbsp;&nbsp2. Connectome-based cortical hierarchical phenotyping in autism"
   - institution: "Montreal Neurological Institute, McGill University, QC Canada"
     area: "Integrated Program in Neuroscience"
     studyType: "PhD"
