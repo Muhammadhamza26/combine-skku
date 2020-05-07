@@ -9,8 +9,7 @@ left_column:
  - work
  - education
  - awards
- - publications
 right_column:
- - programming skills
+ - skills
  - languages
 ---

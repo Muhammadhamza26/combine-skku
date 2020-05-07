@@ -3,7 +3,7 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Seok-Jun Hong, PhD"
-  label: "Scientist, Principal Investigator of the COMBINE Lab"
+  label: "Principal Investigator"
   picture: "/assets/icons/HSJ_icon.png"
   email: "hong.seok.jun@gmail.com"
   phone: "(201) 551-1662"
@@ -14,7 +14,7 @@ basics:
     address: "IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu"
     postalCode: "16419"
     city: "Suwon"
-    countryCode: "Korea"
+    countryCode: "South Korea"
   profiles:
     - network: "Twitter"
       username: "hong_seok_jun"
@@ -26,30 +26,58 @@ basics:
       username: "hong.seok.jun"
       url: "https://scholar.google.com/citations?user=N7uX1isAAAAJ&hl=en"
 work:
-  - company: "Sunkyunkwan University"
+  - company: "Sungkyunkwan University, Suwon South Korea"
     position: "Assistant Professor"
     startDate: "2020-03-01"
     endDate: ""
     summary: >
-      Department of Global Biomedical Engineering
-      IBS Center for Neuroscience Imaging Research
+      Affiliated to Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
   - company: "Child Mind Institute"
     position: "Research Scientist"
     startDate: "2019-09-01"
     endDate: ""
     summary: >
-      Center for the Developing Brain
-      Collaborate: Drs Michael Milham and Adriana Di Martino
+      Affilated to the Center for the Developing Brain
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
-    studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
+  - institution: "Child Mind Institute, NY USA (Mentor: Drs. Michael Milham and Adriana Di Martino)"
+    area: "Computational neuroimaging"
+    studyType: "Post-doctoral"
+    startDate: "2018-07-01"
+    endDate: "2020-08-31"
     courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
+      - "Low dimensional representation of functional connnectivity"
+      - "Connectome-based behavioral prediction"
+      - "Neurosubtyping of autism spectrum disorder"
+  - institution: "Montreal Neurological Institute, Mcgill University, QC Canada (Mentor: Dr. Boris Bernhardt"
+    area: "Computational neuroimaging"
+    studyType: "Post-doctoral"
+    startDate: "2016-11-01"
+    endDate: "2018-06-30"
+    courses:
+      - "Multidimensional neuroanatomical subtyping of autism spectrum disorder"
+      - "Connectome-based cortical hierarchical phenotyping in autism"
+  - institution: "Montreal Neurological Institute, McGill University, QC Canada (Supervisor: Drs. Andrea and Neda Bernasconi)"
+    area: "Integrated Program in Neuroscience"
+    studyType: "PhD"
+    startDate: "2011-01-02"
+    endDate: "2016-05-31"
+    courses:
+      - "Thesis: Advanced Multimodal Imaging in Epileptogenic Malformations of Cortical Development"
+      - "Clinical neuroscience in focal epilepsy"
+  - institution: "Seoul National University, Seoul, South Korea (Supervisor: Dr. Inkyoon Lyoo)"
+    area: "Interdisciplinary Program in Neuroscience"
+    studyType: "MSc"
+    startDate: "2009-03-01"
+    endDate: "2010-02-28"
+    courses:
+      - "Thesis: Cerebellar deficits in opiate-dependent subjects: a voxel-based morphometric study"
+  - institution: "Yonsei University, Seoul, South Korea"
+    area: "Computer Science and Cognitive Science (double major)"
+    studyType: "BSc"
+    startDate: "2001-03-01"
+    endDate: "2007-07-31"
+    courses:
+      - "Thesis: Cerebellar deficits in opiate-dependent subjects: a voxel-based morphometric study"
 awards:
   - title: "Digital Compression Pioneer Award"
     date: "2014-11-01"
