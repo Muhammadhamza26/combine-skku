@@ -24,8 +24,8 @@ See our job [posting].
 ![future student](/assets/img/future_students3.jpg)<br/>
 
 ## Contact
-<body style="margin:0px;padding:0px;overflow:hidden">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1144.913725168921!2d126.97467342552987!3d37.292132136776424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b42b7d58a24f7%3A0x9e67796ab3b20680!2z7ISx6reg6rSA64yA7ZWZ6rWQIE7shLzthLA!5e0!3m2!1sen!2skr!4v1588855933101!5m2!1sen!2skr" frameborder="0" style="border:0;overflow:hidden;height:100%;width:100%" height="100%" width="100%" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<body style="margin:0px;padding:0px">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1144.913725168921!2d126.97467342552987!3d37.292132136776424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b42b7d58a24f7%3A0x9e67796ab3b20680!2z7ISx6reg6rSA64yA7ZWZ6rWQIE7shLzthLA!5e0!3m2!1sen!2skr!4v1588855933101!5m2!1sen!2skr" frameborder="0" style="border:0;height:100%;width:100%" height="100%" width="100%" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 </body>
 IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu, Suwon, Korea, Tel.+82-31-299-4354 / Fax.+82-31-299-4506
 
