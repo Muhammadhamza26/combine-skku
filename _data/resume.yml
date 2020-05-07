@@ -58,8 +58,8 @@ education:
     courses:
       - "Mentor: Dr. Boris Bernhardt"
       - "Projects"
-      - "&nbsp;&nbsp;&nbsp;&nbsp1. Multidimensional neuroanatomical subtyping of autism"
-      - "&nbsp;&nbsp;&nbsp;&nbsp2. Connectome-based cortical hierarchical phenotyping in autism"
+      - "&nbsp;&nbsp;&nbsp;&nbsp1. Neuroanatomical subtyping of autism"
+      - "&nbsp;&nbsp;&nbsp;&nbsp2. Connectome hierarchy in autism"
   - institution: "Montreal Neurological Institute, McGill University, QC Canada"
     area: "Integrated Program in Neuroscience"
     studyType: "PhD"
