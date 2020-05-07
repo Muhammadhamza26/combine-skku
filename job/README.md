@@ -5,12 +5,11 @@ hide_description: true
 ---
 
 # Job posting
-## Open position for PhD students and Postdoc fellows
-![future student](/assets/img/future_students3.jpg)
-<br/><br/>
-
 ![center emblem](/assets/img/centers_emblem.png)
+<br/> 
+![future student](/assets/img/future_students3.jpg)
 <br/>
+## Open position for PhD students and Postdoc fellows 
 (<i>A Korean version will follow in the next page.</i>)<br/>
 The Computational Brain Imaging and Network Modeling (<a href="https://combinelab.net">COMBINE</a>) lab at the <a href="hhttps://www.skku.edu/eng/">Sungkyunkwan University</a> (<a href="https://www.topuniversities.com/universities/sungkyunkwan-universityskku">QS Rank</a>) in South Korea has multiple positions for graduate students and post-doctoral research fellows. The new member of the COMBINE lab will closely work with Dr. Seok-Jun Hong (<a href="https://combinelab.net/resume/">PI</a>) to develop neuroimaging-based cognitive and clinical biomarkers and also the advanced algorithms for large-scale brain network modeling in both human and non-human primates. <br/>
 
