@@ -2,8 +2,8 @@
 layout: project
 title: Neuroanatomical endophenotypes in Juvenile Myclonic Epilepsy
 date: 24 Sep 2019
-image: /assets/img/projects/2020_JME_endophenotype_morphometry.png
-screenshot: /assets/img/projects/2020_JME_endophenotype_morphometry.png
+image: /assets/img/projects/2019_JME_endophenotype_morphometry.png
+screenshot: /assets/img/projects/2019_JME_endophenotype_morphometry.png
 links:
   - title: Journal
     url: https://n.neurology.org/content/93/13/e1272
