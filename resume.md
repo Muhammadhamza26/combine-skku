@@ -11,4 +11,5 @@ left_column:
  - awards
  - skills
  - languages
+right_column:
 ---
