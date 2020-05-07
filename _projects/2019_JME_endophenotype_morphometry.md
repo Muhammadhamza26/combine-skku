@@ -16,7 +16,7 @@ accent_image:
   overlay:    true
 ---
 
-**ABSTRACT**.<br/>
+**ABSTRACT**<br/>
 **Objective** MRI studies of genetic generalized epilepsies have mainly described group-level changes between patients and healthy controls. To determine the endophenotypic potential of structural MRI in juvenile myoclonic epilepsy (JME), we examined MRI-based cortical morphologic markers in patients and their healthy siblings.<br/>
 **Methods** In this prospective, cross-sectional study, we obtained 3T MRI in patients with JME, siblings, and controls. We mapped sulco-gyral complexity and surface area, morphologic markers of brain development, and cortical thickness. Furthermore, we calculated mean geodesic distance, a surrogate marker of cortico-cortical connectivity.<br/>
 **Results** Compared to controls, patients and siblings showed increased folding complexity and surface area in prefrontal and cingulate cortices. In these regions, they also displayed abnormally increased geodesic distance, suggesting network isolation and decreased efficiency, with strongest effects for limbic, fronto-parietal, and dorsal-attention networks. In areas of findings overlap, we observed strong patient–sibling correlations. Conversely, neocortical thinning was present in patients only and related to disease duration. Patients showed subtle impairment in mental flexibility, a frontal lobe function test, as well as deficits in naming and design learning. Siblings' performance fell between patients and controls.<br/>
