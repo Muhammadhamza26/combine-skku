@@ -5,7 +5,7 @@ hide_description: true
 ---
 
 # Job posting
-# Open position
+## Open position for PhD students and Postdoc fellows
 ![future student](/assets/img/future_students3.jpg)
 <br/><br/>
 
@@ -33,7 +33,7 @@ Successfully candidate will begin his/her research in the COMBINE lab from June/
 <br/>
 <br/>
 
-# 박사과정 학생 & 박사 후 연구원 모집
+## 박사과정 학생 & 박사 후 연구원 모집
 <a href="https://www.skku.edu/skku/">성균관대학교</a>, 계산 뇌영상 및 네트워크 모델링 (Computational Brain Imaging & Network Modeling , 약자로 ‘COMBINE’) <a href="https://combinelab.net">연구실</a>에서 2020년 대학원생 및 박사 후 연구원을 모집합니다. COMBINE 연구실에 들어오는 신입연구원은 <a href="https://combinelab.net/resume/">홍석준 책임연구원</a>와 함께 신경영상기반의 인지 및 임상 지표자 (Biomarkers) 개발과 전뇌 생물리학적 신경망 모델링 (Large-scale biophysical brain network modeling)을 인간 및 영장류에서 수행하게 될 것입니다.<br/>
 
 COMBINE 연구원이 참여 할 수 있는 프로젝트들 중에는:
