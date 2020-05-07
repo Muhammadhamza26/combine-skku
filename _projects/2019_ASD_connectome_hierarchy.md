@@ -9,9 +9,9 @@ links:
     url: https://www.nature.com/articles/s41467-019-08944-1
   - title: Data/Code
     url: https://www.nature.com/articles/s41467-019-08944-1#data-availability
-caption: Wandschneider B, et al. Neurology, 2019
+caption: Hong SJ, et al. Nature Communications, 2019
 description: >
-  Hong SJ, Vos de Wael R, Bethlehem R, Lariviere R, Paquola C, Valk SL, Di Martino A, Milham MP, Smallwood J, Margulies D, Bernhardt BC. "Atypical functional connectome hierarchy in autism", Nature Communication. 2019, 10 (1):1022 
+  Hong SJ, Vos de Wael R, Bethlehem R, Lariviere R, Paquola C, Valk SL, Di Martino A, Milham MP, Smallwood J, Margulies D, Bernhardt BC. "Atypical functional connectome hierarchy in autism", Nature Communications. 2019, 10 (1):1022 
 accent_color: '#4fb1ba'
 accent_image:
   background: 'linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4 70%,#cdccc8 100%)'
