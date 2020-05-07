@@ -31,13 +31,13 @@ work:
     startDate: "2020-03-01"
     endDate: ""
     summary: >
-      Affiliated to Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
+      Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
   - company: "Child Mind Institute"
     position: "Research Scientist"
     startDate: "2019-09-01"
     endDate: ""
     summary: >
-      Affilated to the Center for the Developing Brain
+      Center for the Developing Brain
 education:
   - institution: "Child Mind Institute, NY USA"
     area: "Computational neuroimaging"
@@ -47,9 +47,9 @@ education:
     courses:
       - "Mentor: Drs. Michael Milham and Adriana Di Martino"
       - "Projects"
-      - "    1. Low dimensional representation of functional connnectivity"
-      - "    2. Connectome-based behavioral prediction"
-      - "    3. Neurosubtyping of autism spectrum disorder"
+      - "... 1. Low dimensional representation of functional connnectivity"
+      - "... 2. Connectome-based behavioral prediction"
+      - "... 3. Neurosubtyping of autism spectrum disorder"
   - institution: "Montreal Neurological Institute, Mcgill University, QC Canada"
     area: "Computational neuroimaging"
     studyType: "Post-doctoral"
@@ -58,8 +58,8 @@ education:
     courses:
       - "Mentor: Dr. Boris Bernhardt"
       - "Projects"
-      - "    1. Multidimensional neuroanatomical subtyping of autism spectrum disorder"
-      - "    2. Connectome-based cortical hierarchical phenotyping in autism"
+      - "... 1. Multidimensional neuroanatomical subtyping of autism spectrum disorder"
+      - "... 2. Connectome-based cortical hierarchical phenotyping in autism"
   - institution: "Montreal Neurological Institute, McGill University, QC Canada"
     area: "Integrated Program in Neuroscience"
     studyType: "PhD"
