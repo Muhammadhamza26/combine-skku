@@ -8,7 +8,7 @@ hide_description: true
 ![future student](/assets/img/future_students3.jpg)
 
 ## A Korean version will follow in the next page.
-<div style="text-align:left">The Computational Brain Imaging and Network Modeling (<a href="https://combinelab.net">COMBINE</a>) lab at the <a href="https://www.skku.edu/eng/index.do">Sungkyunkwan University</a> (<a href="https://www.topuniversities.com/universities/sungkyunkwan-universityskku">QS Rank</a>) in South Korea has multiple positions for graduate students and post-doctoral research fellows. The new member of the COMBINE lab will closely work with Dr. Seok-Jun Hong (<a href="https://combinelab.net/resume/">PI</a>) to develop neuroimaging-based cognitive and clinical biomarkers and also the advanced algorithms for large-scale brain network modeling in both human and non-human primates. <br/><br/>
+<div style="text-align:left">The Computational Brain Imaging and Network Modeling (<a href="https://combinelab.net">COMBINE</a>) lab at the <a href="https://www.skku.edu/eng/index.do">Sungkyunkwan University</a> (<a href="https://www.topuniversities.com/universities/sungkyunkwan-universityskku">QS Rank</a>) in South Korea has multiple positions for graduate students and post-doctoral research fellows. The new member of the COMBINE lab will closely work with Dr. Seok-Jun Hong (<a href="https://combinelab.net/resume/">PI</a>) to develop neuroimaging-based cognitive and clinical biomarkers and also the advanced algorithms for large-scale brain network modeling in both human and non-human primates. <br/><br/></div>
 
 The projects that the new member can participate in include:
 
@@ -26,7 +26,7 @@ The ideal candidate will have experiences in neuroimaging or/and machine learnin
 1.	Graduate student: While not mandatory, preferable for bachelor’s degree in neuroscience, medicine, computer science, psychology, and biomedical/electrical engineering. Previous experiences of programming (e.g. Python, MATLAB) and machine-learning research are highly desirable. 
 2.	Postdoctoral fellow: PhD or equivalent degree in neuroscience, medicine (radiology, neurology, neuropsychiatry), computer science, psychology, and biomedical/electrical engineering, and strong ability for neuroimaging and statistical analysis are recommended. A candidate should not have any major issue in spoken and written English communication. Moderate to high programming skills (e.g. Python MATLAB) are required. The candidate with deep learning research or/and clouding computing experiences will be prioritized. 
 
-Successfully candidate will begin his/her research in the COMBINE lab from June/July at earliest. Competitive salary or stipend (together with the tuition for graduate students) will be provided. Please direct inquiries by sending a short cover letter and CV to combine.skku@gmail.com.</div>
+Successfully candidate will begin his/her research in the COMBINE lab from June/July at earliest. Competitive salary or stipend (together with the tuition for graduate students) will be provided. Please direct inquiries by sending a short cover letter and CV to combine.skku@gmail.com.
 <br/>
 <br/>
 <div style="text-align:left">모집공고:<br/>
