@@ -9,7 +9,6 @@ left_column:
  - work
  - education 
  - awards
-right_column:
- - skills
+  - skills
  - languages
 ---
