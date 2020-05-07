@@ -7,9 +7,9 @@ menu: true
 order: 3
 left_column:
  - work
+ - education 
  - awards
+right_column:
  - skills
  - languages
-right_column:
- - education
 ---
