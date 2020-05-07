@@ -6,7 +6,7 @@ hide_description: false
 menu: true
 order: 3
 left_column:
- - professional
+ - work
  - education
  - awards
  - publications
