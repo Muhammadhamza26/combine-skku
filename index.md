@@ -15,7 +15,6 @@ Seok-Jun Hong, [PhD]{:.heading.flip-title}<br/>
 
 
 ## We are hiring! See our job posting.
-![future student](/assets/img/future_students.jpg)<br/>
+![future student](/assets/img/future_students3.jpg)<br/>
 
 [PhD]: resume.md
-[google-scholar]: https://scholar.google.ca/citations?user=N7uX1isAAAAJ&hl=en
