@@ -22,7 +22,7 @@ basics:
     - network: "ResearchGate"
       username: "Seok-jun_Hong"
       url: "https://www.researchgate.net/profile/Seok-jun_Hong"
-    - network: "Google Scholar"
+    - network: "GoogleScholar"
       username: "hong.seok.jun"
       url: "https://scholar.google.com/citations?user=N7uX1isAAAAJ&hl=en"
 work:

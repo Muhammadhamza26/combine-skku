@@ -17,7 +17,7 @@ google-drive:
   name: Google Drive
   icon: icon-google-drive
 google-scholar:
-  name: Google Scholar
+  name: GoogleScholar
   icon: icon-googlescholar
 facebook:
   name: Facebook
