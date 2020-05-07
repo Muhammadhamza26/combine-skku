@@ -19,11 +19,13 @@ Principal Investigator<br/>
 ![principal investigator](/assets/img/hong_seok_jun.jpg)<br/>
 Seok-Jun Hong, [PhD]{:.heading.flip-title}<br/>
 
-## We are hiring now! 
+<h2>We are hiring now!</h2>
 See our job [posting].
 ![future student](/assets/img/future_students3.jpg)<br/>
 
 ## Contact
+<iframe src="https://goo.gl/maps/y2cH1pzSPhmQA8kG8" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu, Suwon, Korea Tel.+82-31-299-4354 / Fax.+82-31-299-4506
 
 [PhD]: resume.md
 [posting]: /job/

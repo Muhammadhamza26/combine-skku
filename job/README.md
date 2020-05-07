@@ -11,7 +11,7 @@ hide_description: true
 ![center emblem](/assets/img/centers_emblem.png)
 <br/>
 (<i>A Korean version will follow in the next page.</i>)<br/>
-The Computational Brain Imaging and Network Modeling (<a href="https://combinelab.net">COMBINE</a>) lab at the <a href="https://www.skku.edu/eng/index.do">Sungkyunkwan University</a> (<a href="https://www.topuniversities.com/universities/sungkyunkwan-universityskku">QS Rank</a>) in South Korea has multiple positions for graduate students and post-doctoral research fellows. The new member of the COMBINE lab will closely work with Dr. Seok-Jun Hong (<a href="https://combinelab.net/resume/">PI</a>) to develop neuroimaging-based cognitive and clinical biomarkers and also the advanced algorithms for large-scale brain network modeling in both human and non-human primates. <br/>
+The Computational Brain Imaging and Network Modeling (<a href="https://combinelab.net">COMBINE</a>) lab at the <a href="hhttps://www.skku.edu/eng/">Sungkyunkwan University</a> (<a href="https://www.topuniversities.com/universities/sungkyunkwan-universityskku">QS Rank</a>) in South Korea has multiple positions for graduate students and post-doctoral research fellows. The new member of the COMBINE lab will closely work with Dr. Seok-Jun Hong (<a href="https://combinelab.net/resume/">PI</a>) to develop neuroimaging-based cognitive and clinical biomarkers and also the advanced algorithms for large-scale brain network modeling in both human and non-human primates. <br/>
 
 The projects that the new member can participate in include:
 - Development of brain connectome biomarkers to predict behaviors or psychiatric symptoms in normal and pathological samples
@@ -32,8 +32,8 @@ Successfully candidate will begin his/her research in the COMBINE lab from June/
 <br/>
 <br/>
 
-## 모집공고
-<a href="https://www.skku.edu/eng/index.do">성균관대학교</a>, 계산 뇌영상 및 네트워크 모델링 (Computational Brain Imaging & Network Modeling , 약자로 ‘COMBINE’) <a href="https://combinelab.net">연구실</a>에서 2020년 대학원생 및 박사 후 연구원을 모집합니다. COMBINE 연구실에 들어오는 신입연구원은 <a href="https://combinelab.net/resume/">홍석준 책임연구원</a>와 함께 신경영상기반의 인지 및 임상 지표자 (Biomarkers) 개발과 전뇌 생물리학적 신경망 모델링 (Large-scale biophysical brain network modeling)을 인간 및 영장류에서 수행하게 될 것입니다.<br/>
+# 모집공고
+<a href="https://www.skku.edu/skku/">성균관대학교</a>, 계산 뇌영상 및 네트워크 모델링 (Computational Brain Imaging & Network Modeling , 약자로 ‘COMBINE’) <a href="https://combinelab.net">연구실</a>에서 2020년 대학원생 및 박사 후 연구원을 모집합니다. COMBINE 연구실에 들어오는 신입연구원은 <a href="https://combinelab.net/resume/">홍석준 책임연구원</a>와 함께 신경영상기반의 인지 및 임상 지표자 (Biomarkers) 개발과 전뇌 생물리학적 신경망 모델링 (Large-scale biophysical brain network modeling)을 인간 및 영장류에서 수행하게 될 것입니다.<br/>
 
 COMBINE 연구원이 참여 할 수 있는 프로젝트들 중에는:
 - 첫번째 대규모 정상 및 임상 코호트 데이터를 대상으로 행동과 정신질환증상을 예측할 수 있는 뇌 연결성 지표자 (brain connectome biomarkers) 개발
