@@ -19,4 +19,4 @@ See our job [posting].
 ![future student](/assets/img/future_students3.jpg)<br/>
 
 [PhD]: resume.md
-[posting]: jobposting_2020_fall.md
+[posting]: /job/
