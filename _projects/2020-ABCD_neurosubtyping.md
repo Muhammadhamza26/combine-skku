@@ -9,7 +9,7 @@ links:
     url: https://www.biorxiv.org/content/10.1101/2020.04.28.063461v1.abstract
   - title: Data/Code availability
     url: https://github.com/Yale-CANDLab/ABCD_Env_Subtyping
-caption: Turns web pages into web apps.
+caption: Hong SJ, Sisk L, et al. BioRxiv
 description: >
   Hong SJ, Sisk L, Caballero C, Mekhanik A, Roy AK, Milham MP, Gee DG, "Decomposing complex links between the childhood environment and brain structure in school-aged youth"," BioRxiv
 accent_color: '#4fb1ba'

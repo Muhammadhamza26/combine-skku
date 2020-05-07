@@ -15,8 +15,8 @@ author1:
     path:            /assets/img/Combine_emblem_highres.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            
-      2x:            
+      1x:            /assets/img/Combine_emblem_highres.png
+      2x:            /assets/img/Combine_emblem_highres.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
