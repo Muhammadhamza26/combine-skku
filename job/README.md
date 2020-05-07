@@ -12,8 +12,11 @@ hide_description: true
 <div style="text-align:left">The Computational Brain Imaging and Network Modeling (<a href="https://combinelab.net">COMBINE</a>) lab at the <a href="https://www.skku.edu/eng/index.do">Sungkyunkwan University</a> (<a href="https://www.topuniversities.com/universities/sungkyunkwan-universityskku">QS Rank</a>) in South Korea has multiple positions for graduate students and post-doctoral research fellows. The new member of the COMBINE lab will closely work with Dr. Seok-Jun Hong (<a href="https://combinelab.net/resume/">PI</a>) to develop neuroimaging-based cognitive and clinical biomarkers and also the advanced algorithms for large-scale brain network modeling in both human and non-human primates. <br/><br/>
 
 The projects that the new member can participate in include:
+
 - Development of brain connectome biomarkers to predict behaviors or psychiatric symptoms in normal and pathological samples
+
 - Optimization of large-scale biophysical brain network modeling and software implementation
+
 - Cross-species comparisons of functional brain dynamics and its relation to the underlying anatomical bases. 
 
 Beyond these listed ideas, the member (especially postdoctoral fellow) will be free to pursue self-directed research projects within the lab’s area of investigation.<br/>
