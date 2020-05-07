@@ -7,7 +7,7 @@ screenshot: /assets/img/projects/2020_HCP_gradient_reliability.png
 links:
   - title: Journal
     url: https://www.biorxiv.org/content/10.1101/2020.04.15.043315v1.abstract
-  - title: Data/Code availability
+  - title: Data/Code
     url: https://github.com/ChildMindInstitute
 caption: Hong SJ, Xu T, et al. BioRxiv, 2020
 description: >

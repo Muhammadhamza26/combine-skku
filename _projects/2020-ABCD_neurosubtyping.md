@@ -7,7 +7,7 @@ screenshot: /assets/img/projects/2020-ABCD_neurosubtyping.png
 links:
   - title: Journal
     url: https://www.biorxiv.org/content/10.1101/2020.04.28.063461v1.abstract
-  - title: Data/Code availability
+  - title: Data/Code
     url: https://github.com/Yale-CANDLab/ABCD_Env_Subtyping
 caption: Hong SJ, Sisk L, et al. BioRxiv, 2020
 description: >
