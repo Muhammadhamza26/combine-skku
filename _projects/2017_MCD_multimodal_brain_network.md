@@ -1,7 +1,7 @@
 ---
 layout: project
 title: The spectrum of brain network alterations in epileptogenic cortical malformations
-date: 14 Oct 2018
+date: 1 Dec 2017
 image: /assets/img/projects/2017_MCD_multimodal_brain_network.png
 screenshot: /assets/img/projects/2017_MCD_multimodal_brain_network.png
 links:
