@@ -3,12 +3,11 @@ cover: page
 image: /assets/img/hydejack-8.png
 hide_description: true
 ---
+# News
 {:.no_toc}
 0. Lab updates
 1. Colleague updates
 {:toc}
-
-# News
 ## Lab updates
 - **2020.04.29**    The COMBINE Lab is looking for multiple PhD students and Postdoc fellowships. Please have a look our job posting (see the left menu!) and don't miss the chance for joining our group!
 - **2020.04.01**    Our new collaborative work with the CANDLab in Yale University (Dr. Dylan Gee) is preprinted. It is about an integrative data-driven subtyping of developing children based on the fuse of neuroanatomical and multiple environmental features. Congrats the first co-author, Lucinda Sisk! Very much looking forward to seeing how the reviewer would respond-
