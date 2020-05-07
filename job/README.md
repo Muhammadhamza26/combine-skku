@@ -8,13 +8,17 @@ hide_description: true
 ![future student](/assets/img/future_students3.jpg)<br/>
 ## A Korean version will follow in the next page
 <div style="text-align:left"><br/>
-The Computational Brain Imaging and Network Modeling (<a href="https://combinelab.net">COMBINE</a>) lab at the <a href="https://www.skku.edu/eng/index.do">Sungkyunkwan University(a/) (<a href="https://www.topuniversities.com/universities/sungkyunkwan-universityskku">QS Rank</a>) in South Korea has multiple positions for graduate students and post-doctoral research fellows. The new member of the COMBINE lab will closely work with Dr. Seok-Jun Hong (<a href="https://combinelab.net/resume/">PI</a>) to develop neuroimaging-based cognitive and clinical biomarkers and also the advanced algorithms for large-scale brain network modeling in both human and non-human primates. The projects that the new member can participate in include: <br/><br/><br/>
+The Computational Brain Imaging and Network Modeling (<a href="https://combinelab.net">COMBINE</a>) lab at the <a href="https://www.skku.edu/eng/index.do">Sungkyunkwan University(/a) (<a href="https://www.topuniversities.com/universities/sungkyunkwan-universityskku">QS Rank</a>) in South Korea has multiple positions for graduate students and post-doctoral research fellows. The new member of the COMBINE lab will closely work with Dr. Seok-Jun Hong (<a href="https://combinelab.net/resume/">PI</a>) to develop neuroimaging-based cognitive and clinical biomarkers and also the advanced algorithms for large-scale brain network modeling in both human and non-human primates. <br/></br>
 
-        i) Development of brain connectome biomarkers to predict behaviors or psychiatric symptoms in normal and pathological samples
-        ii) Optimization of large-scale biophysical brain network modeling and software implementation
-        iii) Cross-species comparisons of functional brain dynamics and its relation to the underlying anatomical bases. 
-        
-Beyond these listed ideas, the member (especially postdoctoral fellow) will be free to pursue self-directed research projects within the lab’s area of investigation.
+The projects that the new member can participate in include:<br/>
+
+~~~
+    i) Development of brain connectome biomarkers to predict behaviors or psychiatric symptoms in normal and pathological samples
+    ii) Optimization of large-scale biophysical brain network modeling and software implementation
+    iii) Cross-species comparisons of functional brain dynamics and its relation to the underlying anatomical bases. 
+~~~
+
+Beyond these listed ideas, the member (especially postdoctoral fellow) will be free to pursue self-directed research projects within the lab’s area of investigation.<br/>
 
 The COMBINE lab located in the IBS (Institute for Basic Science) Center (link) for Neuroscience Imaging Research has a full access to several core imaging and behavioral quantification facilities including high-resolution MRI scanners for human (3T, 7T) and animal (9.4T and 15.2T) brains, non-human primate and rodent neurophysiological monitoring systems, and eye tracking tools. This cutting-edge equipment will provide unique research environments to integrate a rich array of multidisciplinary neuroimaging and behavioral datasets to comprehensively characterize both typical and atypical brain conditions. Furthermore, research in the COMBINE lab will be supported by a highly integrated international collaborative network (Child Mind Institute in US and Montreal Neurological Institute in Canada), and thus the lab members will periodically have an opportunity for project-based short-term visit to those renown international institutes. 
 
