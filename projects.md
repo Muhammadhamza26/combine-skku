@@ -1,7 +1,9 @@
 ---
 layout: projects
-title: Projects
+title: Publication
 show_collection: projects
 description: >
-  This is a demo of the `projects` layout, which is included in the PRO version of Hydejack.
 ---
+If you simply want to see the yearly list of the papers from our lab, please click [here]
+
+[here]: https://scholar.google.ca/citations?user=N7uX1isAAAAJ&hl=en
