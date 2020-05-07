@@ -12,4 +12,5 @@ left_column:
  - skills
  - languages
 right_column:
+ - work2
 ---
