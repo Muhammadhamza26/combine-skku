@@ -28,7 +28,7 @@ Job requirements are as follows:
 - Graduate student: While not mandatory, preferable for bachelor’s degree in neuroscience, medicine, computer science, psychology, and biomedical/electrical engineering. Previous experiences of programming (<i>e.g.,</i> Python, MATLAB) and machine-learning research are highly desirable. 
 - Postdoctoral fellow: PhD or equivalent degree in neuroscience, medicine (radiology, neurology, neuropsychiatry), computer science, psychology, and biomedical/electrical engineering, and strong ability for neuroimaging and statistical analysis are recommended. A candidate should not have any major issue in spoken and written English communication. Moderate to high programming skills (<i>e.g.,</i> Python, MATLAB) are required. The candidate with deep learning research or/and clouding computing experiences will be prioritized. 
 
-Successfully candidate will begin his/her research in the COMBINE lab from June/July at earliest. Competitive salary or stipend (together with the tuition for graduate students) will be provided. Please direct inquiries by sending a short cover letter and CV to <a href = "mailto:combine.skku@gmail.com">combine.skku@gmail.com</a>.
+Successful candidates will begin his/her research in the COMBINE lab from June/July at earliest. Competitive salary or stipend (together with the tuition for graduate students) will be provided. Please direct inquiries by sending a short cover letter and CV to <a href = "mailto:combine.skku@gmail.com">combine.skku@gmail.com</a>.
 <br/>
 <br/>
 
