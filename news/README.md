@@ -4,7 +4,7 @@ image: /assets/img/hydejack-8.png
 hide_description: true
 ---
 # News
-<div class="jekyll-twitter-plugin" align="left" style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+<div class="jekyll-twitter-plugin" align="left" style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #ffffff; -moz-column-rule: 1px dotted #ffffff; column-rule: 1px dotted #ffffff;">
 
 ## Lab updates
 - **2020.04.29**    The COMBINE Lab is looking for multiple PhD students and Postdoc fellowships. Please have a look our job posting (see the left menu!) and don't miss the chance for joining our group!
