@@ -11,7 +11,6 @@ hide_description: true
 - **2020.03.19**    A new review paper "Towards Neurosubtypes in Autism" is finally accepted in Biological Psychiatry! Such a long journey since the last summer. Congrats us, together with Dr. Di Martino in CMI!
 - **2020.03.01**    Dr. Hong officially joined to the Department of Global Biomedical Engineering at SKKU in South Korea! Kudos to the COMBINE Lab!
 
-## Colleague updates
 <div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="400" data-tweet-limit="3" href="https://twitter.com/hong_seok_jun?ref_src=twsrc%5Etfw">Tweets by hong_seok_jun</a>
     <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
