@@ -4,10 +4,8 @@ image: /assets/img/hydejack-8.png
 hide_description: true
 ---
 # News
-{:.no_toc}
-0. Lab updates
-1. Colleague updates
-{:toc}
+<div class="jekyll-twitter-plugin" align="left" style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+
 ## Lab updates
 - **2020.04.29**    The COMBINE Lab is looking for multiple PhD students and Postdoc fellowships. Please have a look our job posting (see the left menu!) and don't miss the chance for joining our group!
 - **2020.04.01**    Our new collaborative work with the CANDLab in Yale University (Dr. Dylan Gee) is preprinted. It is about an integrative data-driven subtyping of developing children based on the fuse of neuroanatomical and multiple environmental features. Congrats the first co-author, Lucinda Sisk! Very much looking forward to seeing how the reviewer would respond-
@@ -16,8 +14,7 @@ hide_description: true
 - **2020.03.01**    Dr. Hong officially joined to the Department of Global Biomedical Engineering at SKKU in South Korea! Kudos to the COMBINE Lab!
 
 ## Colleague updates
-<div class="jekyll-twitter-plugin" align="left">
-    <div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="400" data-tweet-limit="3" href="https://twitter.com/hong_seok_jun?ref_src=twsrc%5Etfw">Tweets by hong_seok_jun</a>
+<div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="400" data-tweet-limit="3" href="https://twitter.com/hong_seok_jun?ref_src=twsrc%5Etfw">Tweets by hong_seok_jun</a>
     <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </div>
