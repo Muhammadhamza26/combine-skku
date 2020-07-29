@@ -20,7 +20,6 @@ Principal Investigator<br/>
 Seok-Jun Hong, [PhD]{:.heading.flip-title}<br/>
 
 
-
 <h2>We are hiring now!</h2>
 See our job [posting].
 ![future student](/assets/img/future_students3.jpg)<br/>
