@@ -19,9 +19,7 @@ Principal Investigator<br/>
 ![principal investigator](/assets/img/hong_seok_jun.jpg)<br/>
 Seok-Jun Hong, [PhD]{:.heading.flip-title}<br/>
 
-#Internee<br/>
-#![Internee](/assets/img/hamza2.jpg)<br/>
-#Muhammad Hamza Shah Nawaz, [PhD]{:.heading.flip-title}<br/>
+
 
 <h2>We are hiring now!</h2>
 See our job [posting].
